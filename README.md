@@ -154,7 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-
+This file lists all individuals having contributed content to the repository.
+EL HARRAK Mouad<elhrrakmouad@gmail.com>
+Douaa arifi<arifidouae6@gmail.com>
 ## License
 Public Domain. No copy write protection. 
 
